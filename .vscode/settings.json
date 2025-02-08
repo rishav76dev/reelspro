@@ -1,0 +1,10 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.edits.experimental.enabled": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "javascript.suggest.enabled": false,
+    "typescript.suggest.enabled": false,
+    "typescript.suggest.completeJSDocs": false,
+    "javascript.suggest.completeJSDocs": false
+}
